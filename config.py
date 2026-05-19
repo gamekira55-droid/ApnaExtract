@@ -3,22 +3,22 @@ from os import getenv
 
 
 # ------------------------------------------------
-API_ID = int(os.environ.get("API_ID", "15964777"))
+API_ID = int(os.environ.get("API_ID", "39931318"))
 # ------------------------------------------------
-API_HASH = os.environ.get("API_HASH","ef448f85b780cdf26f8ffe390a5d8262")
+API_HASH = os.environ.get("API_HASH","563b9b46e470de8824d58599c3492430(")
 # ------------------------------------------------
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8800137736:AAGVLS0hAdO9wcLta5MMkY4XJRly752Y9vk")
 # ------------------------------------------------
-BOT_USERNAME = os.environ.get("BOT_USERNAME", "@@Downloaderapna10bot")
-BOT_TEXT = "Downloader 10"
+BOT_USERNAME = os.environ.get("BOT_USERNAME", "@GenMATexbot")
+BOT_TEXT = "GenMATexbot"
 # ------------------------------------------------
-OWNER_ID = int(os.environ.get("OWNER_ID", "944358553"))
+OWNER_ID = int(os.environ.get("OWNER_ID", "819822127"))
 # ------------------------------------------------
 # //LOG CHANNEL ID 
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002683859662"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1003767107069"))
 
 # //FORCE_CHANNEL_ID
-CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1002471859014")) 
+CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1003839980576")) 
 # ------------------------------------------------
 MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://besib69802:YMOfgvnyjbRgW5qt@cluster0.yzzu2gn.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 # -----------------------------------------------
